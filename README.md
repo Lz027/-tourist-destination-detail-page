@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+*Name:* Ahmed Masoud Baghni
+*NIM:* 20230040030
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
