@@ -1,0 +1,46 @@
+.destination-detail {
+    background-color: #f7f7f7;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 400px;
+    margin: auto;
+    text-align: center;
+  }
+  
+  .header {
+    background-color: #4a90e2;
+    color: white;
+    padding: 15px;
+    border-radius: 10px 10px 0 0;
+  }
+  
+  .description {
+    margin: 20px 0;
+  }
+  
+  .pricing {
+    margin: 20px 0;
+  }
+  
+  .quantity-control {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .quantity-control button {
+    border: none;
+    background-color: #4a90e2;
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  .book-button {
+    background-color: #e94e77;
+    color: white;
+    padding: 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
